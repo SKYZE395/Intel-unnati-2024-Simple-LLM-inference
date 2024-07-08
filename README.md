@@ -8,3 +8,6 @@ To run the interface
 1) Run the test.ipynb
 2) Start the gradio server at the end of the notebook
 3) Enter prompt and get output
+
+The report is Intel unnati industrial training report.pptx
+Demo video size is more than the allowed size to upload files thus the link is provided to the google drive to view it publicly.
